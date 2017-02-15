@@ -12,6 +12,7 @@
 <body>
 
 <div class="container">
+    <h1 style="text-align: center"><a href="list.php">Check list</a></h1>
     <form method="post" action="submit.php">
         <fieldset>
             <legend>Shortly about yourself</legend>

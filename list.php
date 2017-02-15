@@ -71,6 +71,6 @@
   ?>
   </tbody>
 </table>
-
+<a href="main.php">Back to main page</a>
 </body>
 </html>
